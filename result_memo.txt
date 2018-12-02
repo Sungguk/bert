@@ -1,0 +1,13 @@
+model = multi_cased_L-12_H-768_A-12
+tasks = SST-2
+eval_accuracy = 0.88761467
+eval_loss = 0.84345335
+global_step = 84186
+loss = 0.84345335
+
+model = uncased_L-12_H-768_A-12
+tasks = SST-2
+eval_accuracy = 0.9105505
+eval_loss = 0.80655396
+global_step = 84186
+loss = 0.80655396
